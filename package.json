@@ -1,0 +1,8 @@
+{
+  "name": "myapp",
+  "description": "My OpenShift Node.js Application",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.3.1"
+  }
+}
